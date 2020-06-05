@@ -1,0 +1,48 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "tsaience"
+theme = "hello-friend"
+paginate = 5
+
+[params]
+  contentTypeName = "posts"
+  defaultTheme = "light"
+  showMenuItems = 4
+  showReadingTime = true
+
+[languages]
+  [languages.en]
+    title = "tsaience"
+    keywords = ""
+    copyright = " <span>© 2020. all rights reserved. built with <a href='https://gohugo.io' target='_blank' rel='noopener'>hugo</a>.</span>"
+    menuMore = "show more"
+    writtenBy = "written by"
+    readMore = "read more"
+    readOtherPosts = "read other posts"
+    newerPosts = "newer posts"
+    olderPosts = "older posts"
+    minuteReadingTime = "min read"
+    dateFormatSingle = "2006-01-02"
+    dateFormatList = "2006-01-02"
+    # leave empty to disable, enter display text to enable
+    # lastModDisplay = ""
+
+    [languages.en.params.logo]
+      logoText = "dev@tsaience:~$"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "home"
+        name = "home"
+        url = "/"
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "about"
+        url = "/about"
+      
+      
