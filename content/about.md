@@ -5,7 +5,7 @@ date = "2020-05-28"
 
 hello, thanks for dropping by! my name is andy / andrew / yunta, and i am a 23yo software dev that does cs & (some) math. previously an mit grad student, currently a [five rings capital](https://fiverings.com) dev in nyc.
 
-in the past, i have interned at [segment](https://segment.com/), [ebay](https://www.ebay.com/), [ibm](https://www.ibm.com/), [boomerang](https://boomeranggmail.com), and [ucsf](https://www.ucsf.edu/).
+in the past, i have interned at [segment](https://segment.com/), [ebay](https://www.ebay.com/), [ibm](https://www.ibm.com/), [boomerang](https://boomeranggmail.com), and [ucsf](https://www.ucsf.edu/). full resume [here](https://drive.google.com/file/d/1y4nGRNP9IR9WZi0EU5oIIVR5Jtoler5o/view?usp=sharing).
 
 you can find me on [github](https://github.com/tsaience), [linkedin](https://www.linkedin.com/in/andrew-tsai/), [quora](https://www.quora.com/profile/Andrew-Yunta-Tsai), and [keybase](https://keybase.io/tsaience).
 

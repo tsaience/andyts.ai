@@ -2,38 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mit on tsaience</title>
-    
-    
-    
     <link>/tags/mit/</link>
     <description>Recent content in mit on tsaience</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright> &lt;span&gt;© 2020. all rights reserved. built with &lt;a href=&#39;https://gohugo.io&#39; target=&#39;_blank&#39; rel=&#39;noopener&#39;&gt;hugo&lt;/a&gt;.&lt;/span&gt;</copyright>
-    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/mit/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/mit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>a (subjective?) handbook on majoring in cs @ mit</title>
       <link>/posts/mit-cs-handbook/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/mit-cs-handbook/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Having spent the last five years at MIT pursuing undergrad &amp;amp; masters degrees in cs, I want to write a handbook that I wish I had as a freshman.
-Disclaimer: This is mostly about pure cs at MIT (course 6-3); MIT has a eecs major (course 6-2), but since that wasn&amp;rsquo;t my major, only parts that overlap with 6-3 are addressed. While I try to be objective, these are, at its core, opinions.
-          
-        
-        </description>
+      <description>Having spent the last five years at MIT pursuing undergrad &amp;amp; masters degrees in cs, I want to write a handbook that I wish I had as a freshman.
+Disclaimer: This is mostly about pure cs at MIT (course 6-3); MIT has a eecs major (course 6-2), but since that wasn&amp;rsquo;t my major, only parts that overlap with 6-3 are addressed. While I try to be objective, these are, at its core, opinions.</description>
     </item>
     
   </channel>

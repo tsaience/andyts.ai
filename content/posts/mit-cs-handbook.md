@@ -4,6 +4,7 @@ description = ""
 tags = [
     "mit",
     "education",
+    "instructive"
 ]
 date = "2020-05-28"
 categories = [
@@ -176,4 +177,4 @@ Here are some other miscellanious things I found helpful:
 
 Cheers, and feel free to reach out if you have any questions!
 
-*Thanks to Brian Xie for post feedback & Bobbie Chen for inspiration on making a tech blog.*
+*Thanks to [Brian Xie](http://www.brianxie.me/) for post feedback & [Bobbie Chen](https://bobbiechen.com/) for inspiration on making a tech blog.*

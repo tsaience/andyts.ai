@@ -44,5 +44,8 @@ paginate = 5
         identifier = "about"
         name = "about"
         url = "/about"
-      
+      [[languages.en.menu.main]]
+        identifier = "projects"
+        name = "projects"
+        url = "/tags/projects/"
       

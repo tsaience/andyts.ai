@@ -2,37 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on tsaience</title>
-    
-    
-    
     <link>/tags/</link>
     <description>Recent content in Tags on tsaience</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright> &lt;span&gt;© 2020. all rights reserved. built with &lt;a href=&#39;https://gohugo.io&#39; target=&#39;_blank&#39; rel=&#39;noopener&#39;&gt;hugo&lt;/a&gt;.&lt;/span&gt;</copyright>
-    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>education</title>
       <link>/tags/education/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/education/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <description></description>
     </item>
     
     <item>
@@ -41,18 +23,7 @@
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/mit/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <description></description>
     </item>
     
   </channel>
